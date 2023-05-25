@@ -1,6 +1,6 @@
 This is the official implementatin for MS-DETR.
 
-Note that this is not the final version (still much to improve and organize). Your patience and understanding are highly appreciated :)
+Please bear in mind that this isn't the completed version of the project, and there is still ample scope for enhancements and proper structuring. We deeply appreciate your patience and understanding:)
 
 # News
 
