@@ -1,8 +1,10 @@
 This is the official implementatin for MS-DETR.
 
-Please bear in mind that **this isn't the completed version of the project**, and there is still ample scope for enhancements and proper structuring. Most of buggy functions are caused by **faulty versioning of kn_util** (my personal utilility toolkit).
+Please note,  **this project is a work in progress** , with many opportunities for further development and organization.
 
-We deeply appreciate your patience and understanding:)
+A majority of the existing bugs can be traced back to **version inconsistencies in kn_util** (my personal utility toolkit). As time permits, I'll address these compatibility issues.
+
+Your patience and understanding are greatly appreciated:)
 
 # News
 
